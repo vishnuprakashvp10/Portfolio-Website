@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/vishnuprakashvp10/Portfolio-Website/static/css/main.bf538fe7.css",
+    "main.js": "/vishnuprakashvp10/Portfolio-Website/static/js/main.138fe980.js",
+    "static/media/HeroImage.jpeg": "/vishnuprakashvp10/Portfolio-Website/static/media/HeroImage.10bd5a12e2e3e1ced0e4.jpeg",
+    "index.html": "/vishnuprakashvp10/Portfolio-Website/index.html",
+    "main.bf538fe7.css.map": "/vishnuprakashvp10/Portfolio-Website/static/css/main.bf538fe7.css.map",
+    "main.138fe980.js.map": "/vishnuprakashvp10/Portfolio-Website/static/js/main.138fe980.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.138fe980.js"
+  ]
+}
