@@ -1,11 +1,10 @@
----- S VISHNUPRAKASH PORTFOLIO WEBSITE ----
+# Portfolio Website
 
-CHECK THE LIVE WEBSITE :
+# Click to view the live website
 https://vishnuprakashvp10.github.io/Portfolio-Website/
 
 
----- IMAGES ----
-
+#  Images
 HERO CARD :
 
 ![image](https://github.com/vishnuprakashvp10/Portfolio-Website/assets/116889374/7f24917d-3b20-41c6-b133-cced9b7102f2)
